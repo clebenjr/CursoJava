@@ -2,22 +2,36 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao5/exercicio1/exercicio1.iml" filepath="$PROJECT_DIR$/ExerciciosSecao5/exercicio1/exercicio1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao4/exercicio2/exercicio2.iml" filepath="$PROJECT_DIR$/ExerciciosSecao4/exercicio2/exercicio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao5-condicional/exercicio1/exercicio1.iml" filepath="$PROJECT_DIR$/ExerciciosSecao5-condicional/exercicio1/exercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao4-sequencial/exercicio2/exercicio2.iml" filepath="$PROJECT_DIR$/ExerciciosSecao4-sequencial/exercicio2/exercicio2.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio2./exercicio2..iml" filepath="$PROJECT_DIR$/exercicio2./exercicio2..iml" />
-      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao4/exercicio3/exercicio3.iml" filepath="$PROJECT_DIR$/ExerciciosSecao4/exercicio3/exercicio3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao4/exercicio4/exercicio4.iml" filepath="$PROJECT_DIR$/ExerciciosSecao4/exercicio4/exercicio4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao5/exercicio4.3/exercicio4.3.iml" filepath="$PROJECT_DIR$/ExerciciosSecao5/exercicio4.3/exercicio4.3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao4/exercicio5/exercicio5.iml" filepath="$PROJECT_DIR$/ExerciciosSecao4/exercicio5/exercicio5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao5/exercicio5.1/exercicio5.1.iml" filepath="$PROJECT_DIR$/ExerciciosSecao5/exercicio5.1/exercicio5.1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao5/exercicio5.2/exercicio5.2.iml" filepath="$PROJECT_DIR$/ExerciciosSecao5/exercicio5.2/exercicio5.2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao5/exercicio5.3/exercicio5.3.iml" filepath="$PROJECT_DIR$/ExerciciosSecao5/exercicio5.3/exercicio5.3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao5/exercicio5.4/exercicio5.4.iml" filepath="$PROJECT_DIR$/ExerciciosSecao5/exercicio5.4/exercicio5.4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao5/exercicio5.5/exercicio5.5.iml" filepath="$PROJECT_DIR$/ExerciciosSecao5/exercicio5.5/exercicio5.5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao5/exercicio5.6/exercicio5.6.iml" filepath="$PROJECT_DIR$/ExerciciosSecao5/exercicio5.6/exercicio5.6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao5/exercicio5.7/exercicio5.7.iml" filepath="$PROJECT_DIR$/ExerciciosSecao5/exercicio5.7/exercicio5.7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao5/exercicio5.8/exercicio5.8.iml" filepath="$PROJECT_DIR$/ExerciciosSecao5/exercicio5.8/exercicio5.8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao4/exercicio6/exercicio6.iml" filepath="$PROJECT_DIR$/ExerciciosSecao4/exercicio6/exercicio6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao4-sequencial/exercicio3/exercicio3.iml" filepath="$PROJECT_DIR$/ExerciciosSecao4-sequencial/exercicio3/exercicio3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao4-sequencial/exercicio4/exercicio4.iml" filepath="$PROJECT_DIR$/ExerciciosSecao4-sequencial/exercicio4/exercicio4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao5-condicional/exercicio4.3/exercicio4.3.iml" filepath="$PROJECT_DIR$/ExerciciosSecao5-condicional/exercicio4.3/exercicio4.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao4-sequencial/exercicio5/exercicio5.iml" filepath="$PROJECT_DIR$/ExerciciosSecao4-sequencial/exercicio5/exercicio5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao5-condicional/exercicio5.1/exercicio5.1.iml" filepath="$PROJECT_DIR$/ExerciciosSecao5-condicional/exercicio5.1/exercicio5.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao5-condicional/exercicio5.2/exercicio5.2.iml" filepath="$PROJECT_DIR$/ExerciciosSecao5-condicional/exercicio5.2/exercicio5.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao5-condicional/exercicio5.3/exercicio5.3.iml" filepath="$PROJECT_DIR$/ExerciciosSecao5-condicional/exercicio5.3/exercicio5.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao5-condicional/exercicio5.4/exercicio5.4.iml" filepath="$PROJECT_DIR$/ExerciciosSecao5-condicional/exercicio5.4/exercicio5.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao5-condicional/exercicio5.5/exercicio5.5.iml" filepath="$PROJECT_DIR$/ExerciciosSecao5-condicional/exercicio5.5/exercicio5.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao5-condicional/exercicio5.6/exercicio5.6.iml" filepath="$PROJECT_DIR$/ExerciciosSecao5-condicional/exercicio5.6/exercicio5.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao5-condicional/exercicio5.7/exercicio5.7.iml" filepath="$PROJECT_DIR$/ExerciciosSecao5-condicional/exercicio5.7/exercicio5.7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao5-condicional/exercicio5.8/exercicio5.8.iml" filepath="$PROJECT_DIR$/ExerciciosSecao5-condicional/exercicio5.8/exercicio5.8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao4-sequencial/exercicio6/exercicio6.iml" filepath="$PROJECT_DIR$/ExerciciosSecao4-sequencial/exercicio6/exercicio6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao6-loops/For/exercicio6.1-for/exercicio6.1-for.iml" filepath="$PROJECT_DIR$/ExerciciosSecao6-loops/For/exercicio6.1-for/exercicio6.1-for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao6-loops/While/exercicio6.1-while/exercicio6.1-while.iml" filepath="$PROJECT_DIR$/ExerciciosSecao6-loops/While/exercicio6.1-while/exercicio6.1-while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao6-loops/For/exercicio6.2-for/exercicio6.2-for.iml" filepath="$PROJECT_DIR$/ExerciciosSecao6-loops/For/exercicio6.2-for/exercicio6.2-for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao6-loops/While/exercicio6.2-while/exercicio6.2-while.iml" filepath="$PROJECT_DIR$/ExerciciosSecao6-loops/While/exercicio6.2-while/exercicio6.2-while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao6-loops/For/exercicio6.3-for/exercicio6.3-for.iml" filepath="$PROJECT_DIR$/ExerciciosSecao6-loops/For/exercicio6.3-for/exercicio6.3-for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao6-loops/While/exercicio6.3-while/exercicio6.3-while.iml" filepath="$PROJECT_DIR$/ExerciciosSecao6-loops/While/exercicio6.3-while/exercicio6.3-while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao6-loops/For/exercicio6.4-for/exercicio6.4-for.iml" filepath="$PROJECT_DIR$/ExerciciosSecao6-loops/For/exercicio6.4-for/exercicio6.4-for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao6-loops/For/exercicio6.5-for/exercicio6.5-for.iml" filepath="$PROJECT_DIR$/ExerciciosSecao6-loops/For/exercicio6.5-for/exercicio6.5-for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao6-loops/For/exercicio6.6-for/exercicio6.6-for.iml" filepath="$PROJECT_DIR$/ExerciciosSecao6-loops/For/exercicio6.6-for/exercicio6.6-for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao6-loops/For/exercicio6.7-for/exercicio6.7-for.iml" filepath="$PROJECT_DIR$/ExerciciosSecao6-loops/For/exercicio6.7-for/exercicio6.7-for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao8-introPOO/exercicio8.1-poo/exercicio8.1-poo.iml" filepath="$PROJECT_DIR$/ExerciciosSecao8-introPOO/exercicio8.1-poo/exercicio8.1-poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao8-introPOO/exercicio8.2-poo/exercicio8.2-poo.iml" filepath="$PROJECT_DIR$/ExerciciosSecao8-introPOO/exercicio8.2-poo/exercicio8.2-poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao8-introPOO/exercicio8.3-poo/exercicio8.3-poo.iml" filepath="$PROJECT_DIR$/ExerciciosSecao8-introPOO/exercicio8.3-poo/exercicio8.3-poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosSecao8-introPOO/exercicio8.4-poo/exercicio8.4-poo.iml" filepath="$PROJECT_DIR$/ExerciciosSecao8-introPOO/exercicio8.4-poo/exercicio8.4-poo.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios.iml" filepath="$PROJECT_DIR$/exercicios.iml" />
     </modules>
   </component>
