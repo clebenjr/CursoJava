@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Insira o salário.");
 
         double salario = sc.nextDouble();
-        double imposto = 0;
+        double imposto;
 
         if(salario <= 2000) {
             System.out.println("Isento");
