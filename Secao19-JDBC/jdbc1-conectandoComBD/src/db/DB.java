@@ -2,7 +2,9 @@ package db;
 
 import java.io.FileInputStream;
 import java.io.IOException;
-import java.sql.*;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
 import java.util.Properties;
 
 public class DB {
@@ -35,35 +37,13 @@ public class DB {
     }
 
     private static Properties loadProperties(){
-        try (FileInputStream fs = new FileInputStream("C:\\Users\\clebe\\OneDrive\\Documentos\\Cursos\\Curso Java\\exercicios\\Secao19-JDBC\\jdbc2-recuperandoDados\\db.properties")) {
+        try (FileInputStream fs = new FileInputStream("C:\\Users\\clebe\\OneDrive\\Documentos\\Cursos\\Curso Java\\exercicios\\Secao19-JDBC\\jdbc1\\db.properties")) {
             Properties props = new Properties();
             props.load(fs);
             return props;
         }
         catch (IOException e){
             throw new DbException(e.getMessage());
-        }
-    }
-
-    public static void closeStatement(Statement st){
-        if (st != null){
-            try {
-                st.close();
-            }
-            catch (SQLException e){
-                throw new DbException(e.getMessage());
-            }
-        }
-    }
-
-    public static void closeResultSet(ResultSet rs){
-        if (rs != null){
-            try {
-                rs.close();
-            }
-            catch (SQLException e){
-                throw new DbException(e.getMessage());
-            }
         }
     }
 }
