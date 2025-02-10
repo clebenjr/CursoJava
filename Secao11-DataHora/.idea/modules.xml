@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalculosComDataHora/CalculosComDataHora.iml" filepath="$PROJECT_DIR$/CalculosComDataHora/CalculosComDataHora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConversaoDataHora/ConversaoDataHora.iml" filepath="$PROJECT_DIR$/ConversaoDataHora/ConversaoDataHora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConversaoDataTexto/ConversaoDataTexto.iml" filepath="$PROJECT_DIR$/ConversaoDataTexto/ConversaoDataTexto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PraticandoDataHora/PraticandoDataHora.iml" filepath="$PROJECT_DIR$/PraticandoDataHora/PraticandoDataHora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Secao11-DataHora.iml" filepath="$PROJECT_DIR$/.idea/Secao11-DataHora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testeStringData/testeStringData.iml" filepath="$PROJECT_DIR$/testeStringData/testeStringData.iml" />
+    </modules>
+  </component>
+</project>
